@@ -171,7 +171,7 @@ Este proyecto tiene su propia API. Esta api se usa tanto para interactuar con la
 
 ## Documentación de la API con Swagger
 
-Esta API implementa Swagger para tener siempre de una forma todos los endpoints de la API junto con una pequeña documentación del funcionamiento de cada Endpoint. Gracias a Swagger se pueden visualizar todos los endpoints y probarlos en su interfaz gráfica que está disponible en: [http://localhost:6012/api-docs/](http://localhost:6012/api-docs/)
+Esta API implementa Swagger para tener siempre de una forma todos los endpoints de la API junto con una pequeña documentación del funcionamiento de cada Endpoint. Gracias a Swagger se pueden visualizar todos los endpoints y probarlos en su interfaz gráfica que está disponible en: [http://tfg.antoniosaborido.es:6012/api-docs/](http://tfg.antoniosaborido.es:6012/api-docs/)
 
 ## Ejemplos de uso
 

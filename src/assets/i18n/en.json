@@ -64,7 +64,7 @@
       "GITHUBACTIONS": "Allows cloning repositories, creating branches, switching branches, committing, and pushing.",
       "GITHUBTOKEN": "For both GitHub actions locally and calls to the GitHub API itself to work correctly, a valid GitHub token is required. Therefore, the GlassMatrix API has a method for storing this token in the local repository (it is in a .gitignore) and also allows adding, modifying, and deleting it graphically. This option is available in GH Tester -> Clone new repository.",
       "APIDOCS": "API Documentation with Swagger",
-      "APIDOCS_PARAGRAPH": "This API implements Swagger to always have all the API endpoints clearly with a brief documentation of how each endpoint works. Thanks to Swagger, all endpoints can be viewed and tested in its graphical interface, which is available at: http://localhost:6012/api-docs/",
+      "APIDOCS_PARAGRAPH": "This API implements Swagger to always have all the API endpoints clearly with a brief documentation of how each endpoint works. Thanks to Swagger, all endpoints can be viewed and tested in its graphical interface, which is available at: http://tfg.antoniosaborido.es:6012/api-docs/",
       "EXAMPLES": "Usage Examples",
       "EXAMPLES_PARAGRAPH": "Below are some examples of how the API looks through Swagger, where calls can be executed directly:",
       "BLUEJAYINTERACTION_TITLE": "Interaction with Bluejay",

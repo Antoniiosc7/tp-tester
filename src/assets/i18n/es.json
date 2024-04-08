@@ -64,7 +64,7 @@
       "GITHUBACTIONS": "Permite clonar repositorios, crear ramas, cambiar de ramas, hacer commits y pushes.",
       "GITHUBTOKEN": "Para que tanto las acciones de github en local, como las llamadas a la propia API de github funcione correctamente, es necesario tener un token válido de github. Por tanto, Glassmatrix API tiene un método por almacenar este token en el repositorio local (está en un .gitignore) y además permite añadirlo, modificarlo y borrarlo gráficamente. Esta opcion se encuentra disponible en GH Tester -> Clonar nuevo repositorio.",
       "APIDOCS": "Documentación de la API con Swagger",
-      "APIDOCS_PARAGRAPH": "Esta API implementa Swagger para tener siempre de una forma todos los endpoints de la API junto con una pequeña documentación del funcionamiento de cada Endpoint. Gracias a Swagger se pueden visualizar todos los endpoints y probarlos en su interfaz gráfica que está disponible en: http://localhost:6012/api-docs/",
+      "APIDOCS_PARAGRAPH": "Esta API implementa Swagger para tener siempre de una forma todos los endpoints de la API junto con una pequeña documentación del funcionamiento de cada Endpoint. Gracias a Swagger se pueden visualizar todos los endpoints y probarlos en su interfaz gráfica que está disponible en: http://tfg.antoniosaborido.es:6012/api-docs/",
       "EXAMPLES": "Ejemplos de uso",
       "EXAMPLES_PARAGRAPH": "A continuación, se presentan algunos ejemplos de como se ve API a través de swagger en donde se pueden ejecutar directamente las llamadas:",
       "BLUEJAYINTERACTION_TITLE": "Interacción con Bluejay",

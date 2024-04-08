@@ -24,7 +24,7 @@ const swaggerOptions = {
       contact: {
         name: 'github.com/antoniiosc7'
       },
-      servers: [`${BASE_URL}://localhost:6012`]
+      servers: [`http://tfg.antoniosaborido.es:6012`]
     }
   },
   // ['.routes/*.js']
