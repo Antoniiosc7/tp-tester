@@ -1,1 +1,1 @@
-exports.BASE_URL = 'http://tfg.antoniosaborido.es';
+exports.BASE_URL = 'http://locahost';
